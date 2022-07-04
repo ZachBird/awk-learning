@@ -19,3 +19,10 @@ BEGIN {}
 [PATTERN] {}
 END {}
 ```
+
+## citation
+https://vim0.com/post/awk/
+https://www.eriwen.com/tools/awk-is-a-beautiful-tool/
+https://www.runoob.com/linux/linux-comm-awk.html
+https://www.tutorialspoint.com/awk/awk_built_in_variables.htm
+https://www.twle.cn/c/yufei/awk/awk-basic-loops.html
