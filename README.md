@@ -22,7 +22,15 @@ END {}
 
 ## citation
 https://vim0.com/post/awk/
+
 https://www.eriwen.com/tools/awk-is-a-beautiful-tool/
+
 https://www.runoob.com/linux/linux-comm-awk.html
+
 https://www.tutorialspoint.com/awk/awk_built_in_variables.htm
+
 https://www.twle.cn/c/yufei/awk/awk-basic-loops.html
+
+https://wzktravel.github.io/2015/09/21/linux-awk/
+
+[The GNU Awk User’s Guide](https://www.gnu.org/software/gawk/manual/gawk.html)
