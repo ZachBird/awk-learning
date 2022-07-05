@@ -1,4 +1,4 @@
-#!/bin/awk -f
+#!/usr/bin/awk -f
 
 # CASE
 # Marry   2143 78 84 77
@@ -19,7 +19,7 @@
 #   TOTAL:       319      393      350
 # AVERAGE:     63.80    78.60    70.00
 
-# BEGIN LINE
+# BEGIN BLOCK
 BEGIN {
   title[0]="Name"
   title[1]="No."
@@ -48,6 +48,7 @@ BEGIN {
   # printf "%-6s %-6s %4d %8d %8d %8d\n", $1, $2, $3,$4,$5, $3+$4+$5
   printf "%-10s%-10s%-10d%-10d%-10d%-10d\n", $1, $2, $3, $4, $5, $3+$4+$5
 }
+# END BLOCK
 END {
   for (i = 0; i < 6; ++i) 
     printf "--------  ", title[i]

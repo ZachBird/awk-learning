@@ -1,0 +1,16 @@
+something:
+ - whatever:
+   - something
+ - toc: 4
+ - body: assets/footer.html
+pkg:
+ - pkg_a_1:
+   - Shass
+   - AJh55
+   - ASH7
+ - pkg_b_1:
+   - Kjs6
+   - opsaa
+other:
+morestuff:
+ - whatever
